@@ -1,0 +1,25 @@
+{
+  "name": "vector-finder",
+  "version": "1.0.0",
+  "description": "Find multiple virtual points as points in a matrix.",
+  "main": "vector-finder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SEECOWS/vector-finder.git"
+  },
+  "keywords": [
+    "Vector",
+    "Finder",
+    "2D",
+    "Matrix"
+  ],
+  "author": "Chris Cates",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SEECOWS/vector-finder/issues"
+  },
+  "homepage": "https://github.com/SEECOWS/vector-finder#readme"
+}
